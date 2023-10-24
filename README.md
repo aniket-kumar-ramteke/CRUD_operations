@@ -1,6 +1,6 @@
 # CRUD_operations
-1.We're creating an employee CRUD project.
-2.We're using React as front-end.
+#1.We're creating an employee CRUD project.
+#2.We're using React as front-end.
 3.We're using Java as spring-boot for making restfull web services.
 4.It will our full stack application.
 5.React is not concerned with http calls that's why we're using "axios" library for this.
